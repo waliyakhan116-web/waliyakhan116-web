@@ -33,9 +33,9 @@
 
   <br>
 
-  <p><strong>Let's connect!</strong></p>
-
-  <p align="center">
+<p align="center">
+    <strong>Let's connect!</strong>
+    <br><br>
     <a href="https://www.linkedin.com/in/areebamoosa/"><img title="Follow me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     &nbsp;&nbsp;
     <a href="https://github.com/areebamoosa"><img title="Follow me on GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
