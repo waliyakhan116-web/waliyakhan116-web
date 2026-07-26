@@ -26,7 +26,7 @@
     <h3>Outside of code:</h3>
     <ul>
 <li>📸 I have a habit of pulling out my phone to capture <strong>random moments</strong>, it helps me notice details beyond code.</li>
-      <li>🌍 I enjoy contributing to <strong>Open Source</strong>, reading others' code has taught me more than any tutorial.</li>
+      <li>🌍 I enjoy contributing to <strong>Open Source</strong>, reading others' code has taught me more than any tutorial ever did.</li>
       <li>☕ I can't survive without a <strong>cup of tea</strong>, it fuels both my mornings and my ideas.</li>
     </ul>
   </div>
