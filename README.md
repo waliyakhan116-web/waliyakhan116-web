@@ -21,15 +21,15 @@
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=areebamoosa&label=Profile%20views&color=0e75b6&style=flat" alt="areebamoosa" />
   </p>
-
-  <div align="left">
-    <h3>Outside of code:</h3>
+<div align="left">
+    <p style="font-size: 20px; font-weight: 900; margin-bottom: 10px;">Outside of code:</p>
     <ul>
-<li>📸 I have a habit of pulling out my phone to capture <strong>random moments</strong>, it helps me notice details beyond code.</li>
-      <li>🌍 I enjoy contributing to <strong>Open Source</strong>, reading others' code has taught me more than any tutorial ever did.</li>
-      <li>☕ I can't survive without a <strong>cup of tea</strong>, it fuels both my mornings and my ideas.</li>
+      <li style="margin: 10px 0;">📸 I have a habit of pulling out my phone to capture <strong>random moments</strong>, it helps me notice details beyond code.</li>
+      <li style="margin: 10px 0;">🌍 I enjoy contributing to <strong>Open Source</strong>, reading others' code has taught me more than any tutorial ever did.</li>
+      <li style="margin: 10px 0;">☕ I can't survive without a <strong>cup of tea</strong>, it fuels both my mornings and my ideas.</li>
     </ul>
   </div>
+  <br>
 
   <br>
 
